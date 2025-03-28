@@ -131,71 +131,72 @@ I architect multi-agent systems using LangChain, LangGraph, and cutting-edge LLM
 </div>
 
 ## 🏆 Featured Production Projects
+
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <div>
-          <h3>🚀 Syntera Code Generation</h3>
-          <p><strong><code>PRODUCTION APPLICATION</code></strong></p>
-          
-          <p>An advanced agentic system that transforms business ideas into production-ready software applications through AI. This autonomous pipeline handles everything from requirements analysis to code generation, testing, and deployment.</p>
-          
-          <details>
-            <summary><strong>Technologies Used</strong></summary>
-            <br>
-            <p>
-              <code>LangChain</code>
-              <code>LangGraph</code>
-              <code>LLMs</code>
-              <code>Vector Databases</code>
-              <code>FastAPI</code>
-              <code>CI/CD</code>
-            </p>
-          </details>
-          
-          <h4>Key Features</h4>
-          <ul>
-            <li>🤖 <strong>Multi-agent reasoning</strong> - Coordinated AI agents that collaborate to solve complex problems</li>
-            <li>📝 <strong>Spec-to-code generation</strong> - Transforms business requirements into working code</li>
-            <li>🧪 <strong>Automated testing</strong> - Built-in validation and quality assurance</li>
-            <li>🔄 <strong>Continuous feedback loops</strong> - Learning from user interactions to improve outputs</li>
-          </ul>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <div>
-          <h3>🏪 Syntera Marketplace</h3>
-          <p><strong><code>PRODUCTION APPLICATION</code></strong></p>
-          
-          <p>A centralized hub for AI/ML tools and resources that empowers engineers to create, train, and deploy machine learning applications and models. This comprehensive platform streamlines the entire ML workflow from data preparation to model serving.</p>
-          
-          <details>
-            <summary><strong>Technologies Used</strong></summary>
-            <br>
-            <p>
-              <code>MLOps</code>
-              <code>Python</code>
-              <code>Web Scraping</code>
-              <code>Streamlit</code>
-              <code>Vector Search</code>
-              <code>API Integration</code>
-            </p>
-          </details>
-          
-          <h4>Key Features</h4>
-          <ul>
-            <li>🔍 <strong>AI tool discovery</strong> - Intelligent search and recommendations for AI/ML tools</li>
-            <li>📊 <strong>Resource management</strong> - Centralized control of AI/ML assets</li>
-            <li>⚙️ <strong>Model deployment</strong> - Streamlined deployment pipelines for ML models</li>
-            <li>📈 <strong>Analytics dashboard</strong> - Comprehensive usage and performance metrics</li>
-          </ul>
-        </div>
-      </td>
-    </tr>
-  </table>
+<table>
+<tr>
+<td>
+<div>
+<h3>🚀 Syntera Code Generation</h3>
+<p><strong><code>PRODUCTION APPLICATION</code></strong></p>
+
+<p>An advanced agentic system that transforms business ideas into production-ready software applications through AI. This autonomous pipeline handles everything from requirements analysis to code generation, testing, and deployment.</p>
+
+<details>
+<summary><strong>Technologies Used</strong></summary>
+<br>
+<p>
+<code>LangChain</code>
+<code>LangGraph</code>
+<code>LLMs</code>
+<code>Vector Databases</code>
+<code>FastAPI</code>
+<code>CI/CD</code>
+</p>
+</details>
+
+<h4>Key Features</h4>
+<ul>
+<li>🤖 <strong>Multi-agent reasoning</strong> - Coordinated AI agents that collaborate to solve complex problems</li>
+<li>📝 <strong>Spec-to-code generation</strong> - Transforms business requirements into working code</li>
+<li>🧪 <strong>Automated testing</strong> - Built-in validation and quality assurance</li>
+<li>🔄 <strong>Continuous feedback loops</strong> - Learning from user interactions to improve outputs</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>
+<h3>🏪 Syntera Marketplace</h3>
+<p><strong><code>PRODUCTION APPLICATION</code></strong></p>
+
+<p>A centralized hub for AI/ML tools and resources that empowers engineers to create, train, and deploy machine learning applications and models. This comprehensive platform streamlines the entire ML workflow from data preparation to model serving.</p>
+
+<details>
+<summary><strong>Technologies Used</strong></summary>
+<br>
+<p>
+<code>MLOps</code>
+<code>Python</code>
+<code>Web Scraping</code>
+<code>Streamlit</code>
+<code>Vector Search</code>
+<code>API Integration</code>
+</p>
+</details>
+
+<h4>Key Features</h4>
+<ul>
+<li>🔍 <strong>AI tool discovery</strong> - Intelligent search and recommendations for AI/ML tools</li>
+<li>📊 <strong>Resource management</strong> - Centralized control of AI/ML assets</li>
+<li>⚙️ <strong>Model deployment</strong> - Streamlined deployment pipelines for ML models</li>
+<li>📈 <strong>Analytics dashboard</strong> - Comprehensive usage and performance metrics</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
 </div>
 
 ## 🔮 What I Build
