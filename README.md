@@ -1,4 +1,161 @@
 # Fouad Mahmoud
+<style>
+  .journey-container {
+    margin: 30px 0;
+  }
+  
+  .timeline {
+    position: relative;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .timeline::after {
+    content: '';
+    position: absolute;
+    width: 6px;
+    background-color: #3a86ff;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    margin-left: -3px;
+  }
+  
+  .timeline-item {
+    padding: 10px 40px;
+    position: relative;
+    width: 50%;
+  }
+  
+  .timeline-dot {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    right: -17px;
+    background-color: white;
+    border: 4px solid #FF9F55;
+    top: 15px;
+    border-radius: 50%;
+    z-index: 1;
+  }
+  
+  .featured-projects {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin: 20px 0;
+  }
+  
+  .project {
+    background: linear-gradient(145deg, #192133 0%, #111827 100%);
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+    border-left: 5px solid #3a86ff;
+    transition: transform 0.3s ease;
+  }
+  
+  .project:hover {
+    transform: translateY(-5px);
+  }
+  
+  .project-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+  }
+  
+  .project-badge {
+    background-color: #38b2ac;
+    color: white;
+    font-size: 0.7em;
+    padding: 5px 10px;
+    border-radius: 30px;
+  }
+  
+  .project-tech {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 15px 0;
+  }
+  
+  .project-tech span {
+    background-color: #1e293b;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 0.85em;
+  }
+  
+  .project-highlights {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 10px;
+    margin-top: 15px;
+  }
+  
+  .highlight {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  
+  .highlight-icon {
+    font-size: 1.2em;
+  }
+  
+  .project-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px 0;
+    gap: 15px;
+  }
+  
+  .card {
+    flex: 1 0 45%;
+    min-width: 280px;
+    background: #1a1b27;
+    border-left: 4px solid #3a86ff;
+    padding: 15px;
+    border-radius: 5px;
+    transition: transform 0.3s ease;
+  }
+  
+  .card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .tech-stack {
+    font-size: 0.8em;
+    color: #a0a0a0;
+    margin-top: 10px;
+  }
+  
+  .edu-container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin: 20px 0;
+  }
+  
+  .edu-item {
+    display: flex;
+    gap: 15px;
+    padding: 15px;
+    background: rgba(26, 32, 44, 0.4);
+    border-radius: 8px;
+  }
+  
+  .edu-icon {
+    font-size: 2em;
+  }
+  
+  .edu-content {
+    flex: 1;
+  }
+</style>
 
 <div align="center">
   
@@ -303,160 +460,3 @@ mindmap
   <h3>💡 "Building intelligent systems that bridge the digital and physical worlds." 💡</h3>
 </div>
 
-<style>
-  .journey-container {
-    margin: 30px 0;
-  }
-  
-  .timeline {
-    position: relative;
-    max-width: 1200px;
-    margin: 0 auto;
-  }
-  
-  .timeline::after {
-    content: '';
-    position: absolute;
-    width: 6px;
-    background-color: #3a86ff;
-    top: 0;
-    bottom: 0;
-    left: 50%;
-    margin-left: -3px;
-  }
-  
-  .timeline-item {
-    padding: 10px 40px;
-    position: relative;
-    width: 50%;
-  }
-  
-  .timeline-dot {
-    position: absolute;
-    width: 25px;
-    height: 25px;
-    right: -17px;
-    background-color: white;
-    border: 4px solid #FF9F55;
-    top: 15px;
-    border-radius: 50%;
-    z-index: 1;
-  }
-  
-  .featured-projects {
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-    margin: 20px 0;
-  }
-  
-  .project {
-    background: linear-gradient(145deg, #192133 0%, #111827 100%);
-    border-radius: 10px;
-    padding: 20px;
-    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
-    border-left: 5px solid #3a86ff;
-    transition: transform 0.3s ease;
-  }
-  
-  .project:hover {
-    transform: translateY(-5px);
-  }
-  
-  .project-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 15px;
-  }
-  
-  .project-badge {
-    background-color: #38b2ac;
-    color: white;
-    font-size: 0.7em;
-    padding: 5px 10px;
-    border-radius: 30px;
-  }
-  
-  .project-tech {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-    margin: 15px 0;
-  }
-  
-  .project-tech span {
-    background-color: #1e293b;
-    padding: 5px 10px;
-    border-radius: 5px;
-    font-size: 0.85em;
-  }
-  
-  .project-highlights {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 10px;
-    margin-top: 15px;
-  }
-  
-  .highlight {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-  }
-  
-  .highlight-icon {
-    font-size: 1.2em;
-  }
-  
-  .project-cards {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    margin: 20px 0;
-    gap: 15px;
-  }
-  
-  .card {
-    flex: 1 0 45%;
-    min-width: 280px;
-    background: #1a1b27;
-    border-left: 4px solid #3a86ff;
-    padding: 15px;
-    border-radius: 5px;
-    transition: transform 0.3s ease;
-  }
-  
-  .card:hover {
-    transform: translateY(-5px);
-  }
-  
-  .tech-stack {
-    font-size: 0.8em;
-    color: #a0a0a0;
-    margin-top: 10px;
-  }
-  
-  .edu-container {
-    display: flex;
-    flex-direction: column;
-    gap: 15px;
-    margin: 20px 0;
-  }
-  
-  .edu-item {
-    display: flex;
-    gap: 15px;
-    padding: 15px;
-    background: rgba(26, 32, 44, 0.4);
-    border-radius: 8px;
-  }
-  
-  .edu-icon {
-    font-size: 2em;
-  }
-  
-  .edu-content {
-    flex: 1;
-  }
-</style>
