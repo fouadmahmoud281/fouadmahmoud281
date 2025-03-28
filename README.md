@@ -131,8 +131,8 @@ I architect multi-agent systems using LangChain, LangGraph, and cutting-edge LLM
     </td>
   </tr>
 </table>
-## 🏆 Featured Production Projects
 
+## 🏆 Featured Production Projects
 <div align="center">
 <table>
 <tr>
