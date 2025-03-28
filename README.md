@@ -260,349 +260,203 @@ mindmap
       Resource Discovery
       Tool Evaluation
       Workflow Optimization
-👨‍🔬 Learning Journey & Education
+```
+
+## 👨‍🔬 Learning Journey & Education
+
 <div class="edu-container">
-
-<div class="edu-item">
-
-<div class="edu-icon">🎓</div>
-
-<div class="edu-content">
-
-<h3>Mechatronics & Robotics Engineering</h3>
-
-<p>Studying the intersection of mechanical engineering, electronics, and software to build intelligent physical systems</p>
-
+  <div class="edu-item">
+    <div class="edu-icon">🎓</div>
+    <div class="edu-content">
+      <h3>Mechatronics & Robotics Engineering</h3>
+      <p>Studying the intersection of mechanical engineering, electronics, and software to build intelligent physical systems</p>
+    </div>
+  </div>
+  
+  <div class="edu-item">
+    <div class="edu-icon">🧪</div>
+    <div class="edu-content">
+      <h3>Continuous Learning</h3>
+      <p>Constantly exploring advancements in AI, LLMs, and agent systems through research papers, courses, and hands-on projects</p>
+    </div>
+  </div>
 </div>
 
-</div>
+## 📫 Let's Connect
 
-<div class="edu-item">
-
-<div class="edu-icon">🧪</div>
-
-<div class="edu-content">
-
-<h3>Continuous Learning</h3>
-
-<p>Constantly exploring advancements in AI, LLMs, and agent systems through research papers, courses, and hands-on projects</p>
-
-</div>
-
-</div>
-
-</div>
-
-📫 Let's Connect
 <div align="center">
+  
+[[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[[Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[[Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[[Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  
+</div>
 
-[LinkedIn](https://www.linkedin.com/)
-[Twitter](https://twitter.com/)
-[Portfolio](https://yourportfolio.com)
-[Email](mailto:your.email@example.com)
+---
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=fouadmahmoud281&color=blue" alt="Profile Views" />
 </div>
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=fouadmahmoud281&color=blue" alt="Profile Views" />
-
-</div>
-
-<div align="center">
-
-<h3>💡 "Building intelligent systems that bridge the digital and physical worlds." 💡</h3>
-
+  <h3>💡 "Building intelligent systems that bridge the digital and physical worlds." 💡</h3>
 </div>
 
 <style>
-
-.journey-container {
-
-margin: 30px 0;
-
-}
-
-
-.timeline {
-
-position: relative;
-
-max-width: 1200px;
-
-margin: 0 auto;
-
-}
-
-
-.timeline::after {
-
-content: '';
-
-position: absolute;
-
-width: 6px;
-
-background-color: #3a86ff;
-
-top: 0;
-
-bottom: 0;
-
-left: 50%;
-
-margin-left: -3px;
-
-}
-
-
-.timeline-item {
-
-padding: 10px 40px;
-
-position: relative;
-
-width: 50%;
-
-}
-
-
-.timeline-dot {
-
-position: absolute;
-
-width: 25px;
-
-height: 25px;
-
-right: -17px;
-
-background-color: white;
-
-border: 4px solid #FF9F55;
-
-top: 15px;
-
-border-radius: 50%;
-
-z-index: 1;
-
-}
-
-
-.featured-projects {
-
-display: flex;
-
-flex-direction: column;
-
-gap: 20px;
-
-margin: 20px 0;
-
-}
-
-
-.project {
-
-background: linear-gradient(145deg, #192133 0%, #111827 100%);
-
-border-radius: 10px;
-
-padding: 20px;
-
-box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
-
-border-left: 5px solid #3a86ff;
-
-transition: transform 0.3s ease;
-
-}
-
-
-.project:hover {
-
-transform: translateY(-5px);
-
-}
-
-
-.project-header {
-
-display: flex;
-
-justify-content: space-between;
-
-align-items: center;
-
-margin-bottom: 15px;
-
-}
-
-
-.project-badge {
-
-background-color: #38b2ac;
-
-color: white;
-
-font-size: 0.7em;
-
-padding: 5px 10px;
-
-border-radius: 30px;
-
-}
-
-
-.project-tech {
-
-display: flex;
-
-flex-wrap: wrap;
-
-gap: 8px;
-
-margin: 15px 0;
-
-}
-
-
-.project-tech span {
-
-background-color: #1e293b;
-
-padding: 5px 10px;
-
-border-radius: 5px;
-
-font-size: 0.85em;
-
-}
-
-
-.project-highlights {
-
-display: grid;
-
-grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-
-gap: 10px;
-
-margin-top: 15px;
-
-}
-
-
-.highlight {
-
-display: flex;
-
-align-items: center;
-
-gap: 8px;
-
-}
-
-
-.highlight-icon {
-
-font-size: 1.2em;
-
-}
-
-
-.project-cards {
-
-display: flex;
-
-flex-wrap: wrap;
-
-justify-content: space-between;
-
-margin: 20px 0;
-
-gap: 15px;
-
-}
-
-
-.card {
-
-flex: 1 0 45%;
-
-min-width: 280px;
-
-background: #1a1b27;
-
-border-left: 4px solid #3a86ff;
-
-padding: 15px;
-
-border-radius: 5px;
-
-transition: transform 0.3s ease;
-
-}
-
-
-.card:hover {
-
-transform: translateY(-5px);
-
-}
-
-
-.tech-stack {
-
-font-size: 0.8em;
-
-color: #a0a0a0;
-
-margin-top: 10px;
-
-}
-
-
-.edu-container {
-
-display: flex;
-
-flex-direction: column;
-
-gap: 15px;
-
-margin: 20px 0;
-
-}
-
-
-.edu-item {
-
-display: flex;
-
-gap: 15px;
-
-padding: 15px;
-
-background: rgba(26, 32, 44, 0.4);
-
-border-radius: 8px;
-
-}
-
-
-.edu-icon {
-
-font-size: 2em;
-
-}
-
-
-.edu-content {
-
-flex: 1;
-
-}
-
+  .journey-container {
+    margin: 30px 0;
+  }
+  
+  .timeline {
+    position: relative;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .timeline::after {
+    content: '';
+    position: absolute;
+    width: 6px;
+    background-color: #3a86ff;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    margin-left: -3px;
+  }
+  
+  .timeline-item {
+    padding: 10px 40px;
+    position: relative;
+    width: 50%;
+  }
+  
+  .timeline-dot {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    right: -17px;
+    background-color: white;
+    border: 4px solid #FF9F55;
+    top: 15px;
+    border-radius: 50%;
+    z-index: 1;
+  }
+  
+  .featured-projects {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin: 20px 0;
+  }
+  
+  .project {
+    background: linear-gradient(145deg, #192133 0%, #111827 100%);
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+    border-left: 5px solid #3a86ff;
+    transition: transform 0.3s ease;
+  }
+  
+  .project:hover {
+    transform: translateY(-5px);
+  }
+  
+  .project-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+  }
+  
+  .project-badge {
+    background-color: #38b2ac;
+    color: white;
+    font-size: 0.7em;
+    padding: 5px 10px;
+    border-radius: 30px;
+  }
+  
+  .project-tech {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 15px 0;
+  }
+  
+  .project-tech span {
+    background-color: #1e293b;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 0.85em;
+  }
+  
+  .project-highlights {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 10px;
+    margin-top: 15px;
+  }
+  
+  .highlight {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  
+  .highlight-icon {
+    font-size: 1.2em;
+  }
+  
+  .project-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px 0;
+    gap: 15px;
+  }
+  
+  .card {
+    flex: 1 0 45%;
+    min-width: 280px;
+    background: #1a1b27;
+    border-left: 4px solid #3a86ff;
+    padding: 15px;
+    border-radius: 5px;
+    transition: transform 0.3s ease;
+  }
+  
+  .card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .tech-stack {
+    font-size: 0.8em;
+    color: #a0a0a0;
+    margin-top: 10px;
+  }
+  
+  .edu-container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin: 20px 0;
+  }
+  
+  .edu-item {
+    display: flex;
+    gap: 15px;
+    padding: 15px;
+    background: rgba(26, 32, 44, 0.4);
+    border-radius: 8px;
+  }
+  
+  .edu-icon {
+    font-size: 2em;
+  }
+  
+  .edu-content {
+    flex: 1;
+  }
 </style>
