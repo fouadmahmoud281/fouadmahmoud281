@@ -1,161 +1,5 @@
+
 # Fouad Mahmoud
-<style>
-  .journey-container {
-    margin: 30px 0;
-  }
-  
-  .timeline {
-    position: relative;
-    max-width: 1200px;
-    margin: 0 auto;
-  }
-  
-  .timeline::after {
-    content: '';
-    position: absolute;
-    width: 6px;
-    background-color: #3a86ff;
-    top: 0;
-    bottom: 0;
-    left: 50%;
-    margin-left: -3px;
-  }
-  
-  .timeline-item {
-    padding: 10px 40px;
-    position: relative;
-    width: 50%;
-  }
-  
-  .timeline-dot {
-    position: absolute;
-    width: 25px;
-    height: 25px;
-    right: -17px;
-    background-color: white;
-    border: 4px solid #FF9F55;
-    top: 15px;
-    border-radius: 50%;
-    z-index: 1;
-  }
-  
-  .featured-projects {
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-    margin: 20px 0;
-  }
-  
-  .project {
-    background: linear-gradient(145deg, #192133 0%, #111827 100%);
-    border-radius: 10px;
-    padding: 20px;
-    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
-    border-left: 5px solid #3a86ff;
-    transition: transform 0.3s ease;
-  }
-  
-  .project:hover {
-    transform: translateY(-5px);
-  }
-  
-  .project-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 15px;
-  }
-  
-  .project-badge {
-    background-color: #38b2ac;
-    color: white;
-    font-size: 0.7em;
-    padding: 5px 10px;
-    border-radius: 30px;
-  }
-  
-  .project-tech {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-    margin: 15px 0;
-  }
-  
-  .project-tech span {
-    background-color: #1e293b;
-    padding: 5px 10px;
-    border-radius: 5px;
-    font-size: 0.85em;
-  }
-  
-  .project-highlights {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 10px;
-    margin-top: 15px;
-  }
-  
-  .highlight {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-  }
-  
-  .highlight-icon {
-    font-size: 1.2em;
-  }
-  
-  .project-cards {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    margin: 20px 0;
-    gap: 15px;
-  }
-  
-  .card {
-    flex: 1 0 45%;
-    min-width: 280px;
-    background: #1a1b27;
-    border-left: 4px solid #3a86ff;
-    padding: 15px;
-    border-radius: 5px;
-    transition: transform 0.3s ease;
-  }
-  
-  .card:hover {
-    transform: translateY(-5px);
-  }
-  
-  .tech-stack {
-    font-size: 0.8em;
-    color: #a0a0a0;
-    margin-top: 10px;
-  }
-  
-  .edu-container {
-    display: flex;
-    flex-direction: column;
-    gap: 15px;
-    margin: 20px 0;
-  }
-  
-  .edu-item {
-    display: flex;
-    gap: 15px;
-    padding: 15px;
-    background: rgba(26, 32, 44, 0.4);
-    border-radius: 8px;
-  }
-  
-  .edu-icon {
-    font-size: 2em;
-  }
-  
-  .edu-content {
-    flex: 1;
-  }
-</style>
 
 <div align="center">
   
@@ -185,7 +29,7 @@ I architect multi-agent systems using LangChain, LangGraph, and cutting-edge LLM
 
 ## 🛠️ Technical Arsenal
 
-<div align="center">
+<div align="center" style="margin: 20px 0;">
   <table>
     <tr>
       <td align="center" width="96">
@@ -218,7 +62,7 @@ I architect multi-agent systems using LangChain, LangGraph, and cutting-edge LLM
 
 ### 🧠 AI & Machine Learning Ecosystem
 
-<div align="center">
+<div align="center" style="margin: 20px 0;">
   <img width="95%" src="https://github-readme-stats.vercel.app/api?username=fouadmahmoud281&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
@@ -255,11 +99,11 @@ I architect multi-agent systems using LangChain, LangGraph, and cutting-edge LLM
 
 ## 🚀 Professional Journey
 
-<div class="journey-container" align="center">
-  <div class="timeline">
-    <div class="timeline-item">
-      <div class="timeline-dot"></div>
-      <div class="timeline-content">
+<div align="center" style="margin: 30px 0; position: relative;">
+  <div style="position: relative; max-width: 1200px; margin: 0 auto;">
+    <div style="padding: 10px 40px; position: relative; width: 50%;">
+      <div style="position: absolute; width: 25px; height: 25px; right: -17px; background-color: white; border: 4px solid #FF9F55; top: 15px; border-radius: 50%; z-index: 1;"></div>
+      <div>
         <h3>AI & Agentic Systems Engineer</h3>
         <h4>Syntera Marketplace | Current</h4>
         <ul>
@@ -270,9 +114,9 @@ I architect multi-agent systems using LangChain, LangGraph, and cutting-edge LLM
         </ul>
       </div>
     </div>
-    <div class="timeline-item">
-      <div class="timeline-dot"></div>
-      <div class="timeline-content">
+    <div style="padding: 10px 40px; position: relative; width: 50%;">
+      <div style="position: absolute; width: 25px; height: 25px; right: -17px; background-color: white; border: 4px solid #FF9F55; top: 15px; border-radius: 50%; z-index: 1;"></div>
+      <div>
         <h3>AI & Data Science Instructor</h3>
         <h4>1.5 Years</h4>
         <ul>
@@ -288,70 +132,70 @@ I architect multi-agent systems using LangChain, LangGraph, and cutting-edge LLM
 
 ## 🏆 Featured Production Projects
 
-<div class="featured-projects">
-  <div class="project">
-    <div class="project-header">
+<div style="display: flex; flex-direction: column; gap: 20px; margin: 20px 0;">
+  <div style="background: linear-gradient(145deg, #192133 0%, #111827 100%); border-radius: 10px; padding: 20px; box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1); border-left: 5px solid #3a86ff;">
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
       <h3>🚀 Syntera Code Generation</h3>
-      <div class="project-badge">Production Application</div>
+      <div style="background-color: #38b2ac; color: white; font-size: 0.7em; padding: 5px 10px; border-radius: 30px;">Production Application</div>
     </div>
     <p>An advanced agentic system that transforms business ideas into production-ready software applications through AI. This autonomous pipeline handles everything from requirements analysis to code generation, testing, and deployment.</p>
-    <div class="project-tech">
-      <span>LangChain</span>
-      <span>LangGraph</span>
-      <span>LLMs</span>
-      <span>Vector Databases</span>
-      <span>FastAPI</span>
-      <span>CI/CD</span>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 15px 0;">
+      <span style="background-color: #1e293b; padding: 5px 10px; border-radius: 5px; font-size: 0.85em;">LangChain</span>
+      <span style="background-color: #1e293b; padding: 5px 10px; border-radius: 5px; font-size: 0.85em;">LangGraph</span>
+      <span style="background-color: #1e293b; padding: 5px 10px; border-radius: 5px; font-size: 0.85em;">LLMs</span>
+      <span style="background-color: #1e293b; padding: 5px 10px; border-radius: 5px; font-size: 0.85em;">Vector Databases</span>
+      <span style="background-color: #1e293b; padding: 5px 10px; border-radius: 5px; font-size: 0.85em;">FastAPI</span>
+      <span style="background-color: #1e293b; padding: 5px 10px; border-radius: 5px; font-size: 0.85em;">CI/CD</span>
     </div>
-    <div class="project-highlights">
-      <div class="highlight">
-        <span class="highlight-icon">🤖</span>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px; margin-top: 15px;">
+      <div style="display: flex; align-items: center; gap: 8px;">
+        <span style="font-size: 1.2em;">🤖</span>
         <span>Multi-agent reasoning</span>
       </div>
-      <div class="highlight">
-        <span class="highlight-icon">📝</span>
+      <div style="display: flex; align-items: center; gap: 8px;">
+        <span style="font-size: 1.2em;">📝</span>
         <span>Spec-to-code generation</span>
       </div>
-      <div class="highlight">
-        <span class="highlight-icon">🧪</span>
+      <div style="display: flex; align-items: center; gap: 8px;">
+        <span style="font-size: 1.2em;">🧪</span>
         <span>Automated testing</span>
       </div>
-      <div class="highlight">
-        <span class="highlight-icon">🔄</span>
+      <div style="display: flex; align-items: center; gap: 8px;">
+        <span style="font-size: 1.2em;">🔄</span>
         <span>Continuous feedback loops</span>
       </div>
     </div>
   </div>
   
-  <div class="project">
-    <div class="project-header">
+  <div style="background: linear-gradient(145deg, #192133 0%, #111827 100%); border-radius: 10px; padding: 20px; box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1); border-left: 5px solid #3a86ff;">
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
       <h3>🏪 Syntera Marketplace</h3>
-      <div class="project-badge">Production Application</div>
+      <div style="background-color: #38b2ac; color: white; font-size: 0.7em; padding: 5px 10px; border-radius: 30px;">Production Application</div>
     </div>
     <p>A centralized hub for AI/ML tools and resources that empowers engineers to create, train, and deploy machine learning applications and models. This comprehensive platform streamlines the entire ML workflow from data preparation to model serving.</p>
-    <div class="project-tech">
-      <span>MLOps</span>
-      <span>Python</span>
-      <span>Web Scraping</span>
-      <span>Streamlit</span>
-      <span>Vector Search</span>
-      <span>API Integration</span>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 15px 0;">
+      <span style="background-color: #1e293b; padding: 5px 10px; border-radius: 5px; font-size: 0.85em;">MLOps</span>
+      <span style="background-color: #1e293b; padding: 5px 10px; border-radius: 5px; font-size: 0.85em;">Python</span>
+      <span style="background-color: #1e293b; padding: 5px 10px; border-radius: 5px; font-size: 0.85em;">Web Scraping</span>
+      <span style="background-color: #1e293b; padding: 5px 10px; border-radius: 5px; font-size: 0.85em;">Streamlit</span>
+      <span style="background-color: #1e293b; padding: 5px 10px; border-radius: 5px; font-size: 0.85em;">Vector Search</span>
+      <span style="background-color: #1e293b; padding: 5px 10px; border-radius: 5px; font-size: 0.85em;">API Integration</span>
     </div>
-    <div class="project-highlights">
-      <div class="highlight">
-        <span class="highlight-icon">🔍</span>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px; margin-top: 15px;">
+      <div style="display: flex; align-items: center; gap: 8px;">
+        <span style="font-size: 1.2em;">🔍</span>
         <span>AI tool discovery</span>
       </div>
-      <div class="highlight">
-        <span class="highlight-icon">📊</span>
+      <div style="display: flex; align-items: center; gap: 8px;">
+        <span style="font-size: 1.2em;">📊</span>
         <span>Resource management</span>
       </div>
-      <div class="highlight">
-        <span class="highlight-icon">⚙️</span>
+      <div style="display: flex; align-items: center; gap: 8px;">
+        <span style="font-size: 1.2em;">⚙️</span>
         <span>Model deployment</span>
       </div>
-      <div class="highlight">
-        <span class="highlight-icon">📈</span>
+      <div style="display: flex; align-items: center; gap: 8px;">
+        <span style="font-size: 1.2em;">📈</span>
         <span>Analytics dashboard</span>
       </div>
     </div>
@@ -360,39 +204,39 @@ I architect multi-agent systems using LangChain, LangGraph, and cutting-edge LLM
 
 ## 🔮 What I Build
 
-<div class="project-cards">
-  <div class="card">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin: 20px 0; gap: 15px;">
+  <div style="flex: 1 0 45%; min-width: 280px; background: #1a1b27; border-left: 4px solid #3a86ff; padding: 15px; border-radius: 5px;">
     <h3>🤖 Autonomous Agent Systems</h3>
     <p>Multi-agent architectures that can perceive, reason, plan, and act to solve complex tasks with minimal human intervention.</p>
-    <div class="tech-stack">LangChain, LangGraph, LLMs</div>
+    <div style="font-size: 0.8em; color: #a0a0a0; margin-top: 10px;">LangChain, LangGraph, LLMs</div>
   </div>
   
-  <div class="card">
+  <div style="flex: 1 0 45%; min-width: 280px; background: #1a1b27; border-left: 4px solid #3a86ff; padding: 15px; border-radius: 5px;">
     <h3>🧠 LLM-powered Applications</h3>
     <p>Fine-tuned and optimized LLM implementations for specific domains, with sophisticated prompting strategies.</p>
-    <div class="tech-stack">LangSmith, Vector DBs, Fine-tuning</div>
+    <div style="font-size: 0.8em; color: #a0a0a0; margin-top: 10px;">LangSmith, Vector DBs, Fine-tuning</div>
   </div>
   
-  <div class="card">
+  <div style="flex: 1 0 45%; min-width: 280px; background: #1a1b27; border-left: 4px solid #3a86ff; padding: 15px; border-radius: 5px;">
     <h3>🦾 Robotics & Mechatronics</h3>
     <p>Intelligent systems that bridge the gap between software and hardware, combining AI with physical world interaction.</p>
-    <div class="tech-stack">Control Systems, Sensors, Actuators</div>
+    <div style="font-size: 0.8em; color: #a0a0a0; margin-top: 10px;">Control Systems, Sensors, Actuators</div>
   </div>
   
-  <div class="card">
+  <div style="flex: 1 0 45%; min-width: 280px; background: #1a1b27; border-left: 4px solid #3a86ff; padding: 15px; border-radius: 5px;">
     <h3>📊 AI Data Pipelines</h3>
     <p>End-to-end data workflows that ingest, process, and transform data for AI/ML applications.</p>
-    <div class="tech-stack">MLOps, Data Engineering, Python</div>
+    <div style="font-size: 0.8em; color: #a0a0a0; margin-top: 10px;">MLOps, Data Engineering, Python</div>
   </div>
 </div>
 
 ## 📈 GitHub Activity
 
-<div align="center">
+<div align="center" style="margin: 20px 0;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fouadmahmoud281&theme=dark" alt="GitHub Streak" />
 </div>
 
-<div align="center">
+<div align="center" style="margin: 20px 0;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fouadmahmoud281&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
@@ -421,18 +265,18 @@ mindmap
 
 ## 👨‍🔬 Learning Journey & Education
 
-<div class="edu-container">
-  <div class="edu-item">
-    <div class="edu-icon">🎓</div>
-    <div class="edu-content">
+<div style="display: flex; flex-direction: column; gap: 15px; margin: 20px 0;">
+  <div style="display: flex; gap: 15px; padding: 15px; background: rgba(26, 32, 44, 0.4); border-radius: 8px;">
+    <div style="font-size: 2em;">🎓</div>
+    <div style="flex: 1;">
       <h3>Mechatronics & Robotics Engineering</h3>
       <p>Studying the intersection of mechanical engineering, electronics, and software to build intelligent physical systems</p>
     </div>
   </div>
   
-  <div class="edu-item">
-    <div class="edu-icon">🧪</div>
-    <div class="edu-content">
+  <div style="display: flex; gap: 15px; padding: 15px; background: rgba(26, 32, 44, 0.4); border-radius: 8px;">
+    <div style="font-size: 2em;">🧪</div>
+    <div style="flex: 1;">
       <h3>Continuous Learning</h3>
       <p>Constantly exploring advancements in AI, LLMs, and agent systems through research papers, courses, and hands-on projects</p>
     </div>
@@ -441,7 +285,7 @@ mindmap
 
 ## 📫 Let's Connect
 
-<div align="center">
+<div align="center" style="margin: 20px 0;">
   
 [[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [[Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
@@ -452,11 +296,10 @@ mindmap
 
 ---
 
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   <img src="https://komarev.com/ghpvc/?username=fouadmahmoud281&color=blue" alt="Profile Views" />
 </div>
 
-<div align="center">
+<div align="center" style="margin: 20px 0;">
   <h3>💡 "Building intelligent systems that bridge the digital and physical worlds." 💡</h3>
 </div>
-
