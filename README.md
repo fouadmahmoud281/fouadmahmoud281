@@ -102,7 +102,7 @@ I architect multi-agent systems using LangChain, LangGraph, and cutting-edge LLM
 <table>
   <tr>
     <td width="70">
-      <img src="[https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/engineer.png](https://cdn-icons-png.freepik.com/512/5609/5609943.png?ga=GA1.1.1553037362.1743172473)" width="60">
+      <img src="[https://cdn-icons-png.freepik.com/512/5609/5609943.png]" width="60">
     </td>
     <td>
       <h3>AI & Agentic Systems Engineer</h3>
@@ -117,7 +117,7 @@ I architect multi-agent systems using LangChain, LangGraph, and cutting-edge LLM
   </tr>
   <tr>
     <td width="70">
-      <img src="[https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/instructor.png](https://cdn-icons-png.freepik.com/512/3929/3929087.png?ga=GA1.1.1553037362.1743172473)" width="60">
+      <img src="[https://cdn-icons-png.freepik.com/512/3929/3929087.png?ga=GA1.1.1553037362.1743172473]" width="60">
     </td>
     <td>
       <h3>AI & Data Science Instructor</h3>
