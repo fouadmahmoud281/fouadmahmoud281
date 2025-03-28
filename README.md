@@ -17,7 +17,7 @@
 
 ## 🤖 About Me
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/terminal.gif">
+<img align="right" width="300" src="[https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/terminal.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2c4bXgzMzQ3dHo4NmJiajd2YXN1aGMzZmJjdTJ4bWc4OW13MmtjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hrm0LJNRkPHDkLIHz9/giphy.gif)">
 
 > "Innovative solutions require dumb mistakes" 💡
 
@@ -99,37 +99,38 @@ I architect multi-agent systems using LangChain, LangGraph, and cutting-edge LLM
 
 ## 🚀 Professional Journey
 
-<div align="center" style="margin: 30px 0; position: relative;">
-  <div style="position: relative; max-width: 1200px; margin: 0 auto;">
-    <div style="padding: 10px 40px; position: relative; width: 50%;">
-      <div style="position: absolute; width: 25px; height: 25px; right: -17px; background-color: white; border: 4px solid #FF9F55; top: 15px; border-radius: 50%; z-index: 1;"></div>
-      <div>
-        <h3>AI & Agentic Systems Engineer</h3>
-        <h4>Syntera Marketplace | Current</h4>
-        <ul>
-          <li>Lead engineer on Syntera Code Generation & Marketplace products</li>
-          <li>Architect multi-agent AI systems using LangChain & LangGraph</li>
-          <li>Build autonomous workflows with LLMs for complex tasks</li>
-          <li>Develop data pipelines and vector database solutions</li>
-        </ul>
-      </div>
-    </div>
-    <div style="padding: 10px 40px; position: relative; width: 50%;">
-      <div style="position: absolute; width: 25px; height: 25px; right: -17px; background-color: white; border: 4px solid #FF9F55; top: 15px; border-radius: 50%; z-index: 1;"></div>
-      <div>
-        <h3>AI & Data Science Instructor</h3>
-        <h4>1.5 Years</h4>
-        <ul>
-          <li>Taught fundamentals of robotics, AI, and data science</li>
-          <li>Designed curriculum and hands-on projects</li>
-          <li>Mentored students on real-world AI applications</li>
-          <li>Conducted workshops on Python, ML, and AI ethics</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</div>
-
+<table>
+  <tr>
+    <td width="70">
+      <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/engineer.png" width="60">
+    </td>
+    <td>
+      <h3>AI & Agentic Systems Engineer</h3>
+      <p><em>Syntera Marketplace | Current</em></p>
+      <ul>
+        <li>Lead engineer on Syntera Code Generation & Marketplace products</li>
+        <li>Architect multi-agent AI systems using LangChain & LangGraph</li>
+        <li>Build autonomous workflows with LLMs for complex tasks</li>
+        <li>Develop data pipelines and vector database solutions</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="70">
+      <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/instructor.png" width="60">
+    </td>
+    <td>
+      <h3>AI & Data Science Instructor</h3>
+      <p><em>1.5 Years</em></p>
+      <ul>
+        <li>Taught fundamentals of robotics, AI, and data science</li>
+        <li>Designed curriculum and hands-on projects</li>
+        <li>Mentored students on real-world AI applications</li>
+        <li>Conducted workshops on Python, ML, and AI ethics</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 ## 🏆 Featured Production Projects
 
 <div align="center">
