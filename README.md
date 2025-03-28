@@ -118,66 +118,45 @@ I architect multi-agent systems using LangChain, LangGraph, and cutting-edge LLM
   </table>
 </div>
 
-### 🧠 AI & Machine Learning Tools
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h4>Frameworks & Libraries</h4>
-        <p>
-          <code>LangChain</code> •
-          <code>LangGraph</code> •
-          <code>LangSmith</code> •
-          <code>NVIDIA NeMo</code> •
-          <code>spaCy</code> •
-          <code>Transformers</code> •
-          <code>JAX</code> •
-          <code>DVC</code> •
-          <code>Ray</code> •
-          <code>Weights & Biases</code>
-        </p>
-      </td>
-      <td align="center">
-        <h4>AI Workflows</h4>
-        <p>
-          <code>Prompt Engineering</code> •
-          <code>Model Fine-tuning</code> •
-          <code>RAG Systems</code> •
-          <code>Agent Architecture</code> •
-          <code>Vector Search</code> •
-          <code>Semantic Caching</code> •
-          <code>LLM Evaluation</code>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <h4>Vector Databases</h4>
-        <p>
-          <code>Pinecone</code> •
-          <code>Weaviate</code> •
-          <code>Qdrant</code> •
-          <code>Milvus</code> •
-          <code>Chroma</code> •
-          <code>FAISS</code> •
-          <code>pgvector</code>
-        </p>
-      </td>
-      <td align="center">
-        <h4>LLM Orchestration</h4>
-        <p>
-          <code>Function Calling</code> •
-          <code>Tool Usage</code> •
-          <code>Chain of Thought</code> •
-          <code>ReAct Patterns</code> •
-          <code>Multi-agent Systems</code> •
-          <code>Memory Management</code>
-        </p>
-      </td>
-    </tr>
-  </table>
+### 🧠 AI & Machine Learning Ecosystem
+
+<div align="center" style="margin: 20px 0;">
+  <img width="95%" src="https://github-readme-stats.vercel.app/api?username=fouadmahmoud281&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3 align="center">AI Frameworks & Tools</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/-LangChain-2a9d8f?style=for-the-badge&logoColor=white" alt="LangChain" />
+        <img src="https://img.shields.io/badge/-LangGraph-4c1d95?style=for-the-badge&logoColor=white" alt="LangGraph" />
+        <img src="https://img.shields.io/badge/-LangSmith-2b2d42?style=for-the-badge&logoColor=white" alt="LangSmith" />
+        <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+        <img src="https://img.shields.io/badge/-Vector%20Databases-5A0?style=for-the-badge&logoColor=white" alt="Vector DBs" />
+        <img src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+        <img src="https://img.shields.io/badge/-Fine%20Tuning-FF6F00?style=for-the-badge&logoColor=white" alt="Fine Tuning" />
+        <img src="https://img.shields.io/badge/-MLOps-0A9EDC?style=for-the-badge&logoColor=white" alt="MLOps" />
+      </div>
+    </td>
+    <td valign="top" width="50%">
+      <h3 align="center">Specializations</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/-Agentic%20Systems-3A5FCD?style=for-the-badge&logoColor=white" alt="Agentic Systems" />
+        <img src="https://img.shields.io/badge/-Multi--Agent%20Architecture-7D4E57?style=for-the-badge&logoColor=white" alt="Multi-Agent" />
+        <img src="https://img.shields.io/badge/-Robotics-DC143C?style=for-the-badge&logoColor=white" alt="Robotics" />
+        <img src="https://img.shields.io/badge/-Mechatronics-4B0082?style=for-the-badge&logoColor=white" alt="Mechatronics" />
+        <img src="https://img.shields.io/badge/-Web%20Scraping-036301?style=for-the-badge&logoColor=white" alt="Web Scraping" />
+        <img src="https://img.shields.io/badge/-NLP-9336B4?style=for-the-badge&logoColor=white" alt="NLP" />
+        <img src="https://img.shields.io/badge/-Data%20Pipelines-2C3784?style=for-the-badge&logoColor=white" alt="Data Pipelines" />
+        <img src="https://img.shields.io/badge/-AI%20Project%20Management-FF8C00?style=for-the-badge&logoColor=white" alt="AI PM" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+
 
 ## 🚀 Professional Journey
 
