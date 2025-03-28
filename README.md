@@ -29,7 +29,7 @@ I architect multi-agent systems using LangChain, LangGraph, and cutting-edge LLM
 
 ## 🛠️ Technical Arsenal
 
-<div align="center" style="margin: 20px 0;">
+<div align="center">
   <table>
     <tr>
       <td align="center" width="96">
@@ -57,9 +57,66 @@ I architect multi-agent systems using LangChain, LangGraph, and cutting-edge LLM
         <br>Flask
       </td>
     </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48" alt="TensorFlow" />
+        <br>TensorFlow
+      </td>
+      <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48" height="48" alt="PyTorch" />
+        <br>PyTorch
+      </td>
+      <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" />
+        <br>Scikit-learn
+      </td>
+      <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="48" height="48" alt="Jupyter" />
+        <br>Jupyter
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
+        <br>Redis
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" />
+        <br>AWS
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+        <br>MongoDB
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/streamlit.svg" width="48" height="48" alt="Streamlit" />
+        <br>Streamlit
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/openai.svg" width="48" height="48" alt="OpenAI" />
+        <br>OpenAI API
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/huggingface.svg" width="48" height="48" alt="Hugging Face" />
+        <br>Hugging Face
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+        <br>Linux
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+        <br>React
+      </td>
+    </tr>
   </table>
 </div>
-
 ### 🧠 AI & Machine Learning Ecosystem
 
 <div align="center" style="margin: 20px 0;">
@@ -102,7 +159,7 @@ I architect multi-agent systems using LangChain, LangGraph, and cutting-edge LLM
 <table>
   <tr>
     <td width="70">
-      <img src="[https://img.freepik.com/premium-vector/programming-coding-icon-set-software-development-icon-collection-programmer-developer-symbol_745851-79.jpg]" width="60">
+      <img src="https://img.freepik.com/premium-vector/programming-coding-icon-set-software-development-icon-collection-programmer-developer-symbol_745851-79.jpg" width="60">
     </td>
     <td>
       <h3>AI & Agentic Systems Engineer</h3>
@@ -117,7 +174,7 @@ I architect multi-agent systems using LangChain, LangGraph, and cutting-edge LLM
   </tr>
   <tr>
     <td width="70">
-      <img src="[https://img.freepik.com/free-vector/man-working-with-social-media-icons_24877-50719.jpg]" width="60">
+      <img src="https://img.freepik.com/free-vector/man-working-with-social-media-icons_24877-50719.jpg" width="60">
     </td>
     <td>
       <h3>AI & Data Science Instructor</h3>
