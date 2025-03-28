@@ -17,7 +17,7 @@
 
 ## 🤖 About Me
 
-<img align="right" width="300" src="[https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/terminal.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2c4bXgzMzQ3dHo4NmJiajd2YXN1aGMzZmJjdTJ4bWc4OW13MmtjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hrm0LJNRkPHDkLIHz9/giphy.gif)">
+<img align="right" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2c4bXgzMzQ3dHo4NmJiajd2YXN1aGMzZmJjdTJ4bWc4OW13MmtjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hrm0LJNRkPHDkLIHz9/giphy.gif">
 
 > "Innovative solutions require dumb mistakes" 💡
 
@@ -102,7 +102,7 @@ I architect multi-agent systems using LangChain, LangGraph, and cutting-edge LLM
 <table>
   <tr>
     <td width="70">
-      <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/engineer.png" width="60">
+      <img src="[https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/engineer.png](https://cdn-icons-png.freepik.com/512/5609/5609943.png?ga=GA1.1.1553037362.1743172473)" width="60">
     </td>
     <td>
       <h3>AI & Agentic Systems Engineer</h3>
@@ -117,7 +117,7 @@ I architect multi-agent systems using LangChain, LangGraph, and cutting-edge LLM
   </tr>
   <tr>
     <td width="70">
-      <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/instructor.png" width="60">
+      <img src="[https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/instructor.png](https://cdn-icons-png.freepik.com/512/3929/3929087.png?ga=GA1.1.1553037362.1743172473)" width="60">
     </td>
     <td>
       <h3>AI & Data Science Instructor</h3>
