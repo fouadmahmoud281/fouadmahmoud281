@@ -131,171 +131,111 @@ I architect multi-agent systems using LangChain, LangGraph, and cutting-edge LLM
 </div>
 
 ## 🏆 Featured Production Projects
-<div style="margin: 30px 0;">
 
-<div style="background: linear-gradient(135deg, #1e3a8a 0%, #0f172a 100%); border-radius: 12px; padding: 25px; margin-bottom: 25px; border-left: 8px solid #3b82f6; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
-
-<h3 style="font-size: 24px; margin: 0; color: #f0f9ff;">🚀 Syntera Code Generation</h3>
-
-<div style="background-color: #0ea5e9; color: white; font-size: 12px; padding: 6px 12px; border-radius: 30px; font-weight: bold; letter-spacing: 0.5px;">Production Application</div>
-
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <div>
+          <h3>🚀 Syntera Code Generation</h3>
+          <p><strong><code>PRODUCTION APPLICATION</code></strong></p>
+          
+          <p>An advanced agentic system that transforms business ideas into production-ready software applications through AI. This autonomous pipeline handles everything from requirements analysis to code generation, testing, and deployment.</p>
+          
+          <details>
+            <summary><strong>Technologies Used</strong></summary>
+            <br>
+            <p>
+              <code>LangChain</code>
+              <code>LangGraph</code>
+              <code>LLMs</code>
+              <code>Vector Databases</code>
+              <code>FastAPI</code>
+              <code>CI/CD</code>
+            </p>
+          </details>
+          
+          <h4>Key Features</h4>
+          <ul>
+            <li>🤖 <strong>Multi-agent reasoning</strong> - Coordinated AI agents that collaborate to solve complex problems</li>
+            <li>📝 <strong>Spec-to-code generation</strong> - Transforms business requirements into working code</li>
+            <li>🧪 <strong>Automated testing</strong> - Built-in validation and quality assurance</li>
+            <li>🔄 <strong>Continuous feedback loops</strong> - Learning from user interactions to improve outputs</li>
+          </ul>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div>
+          <h3>🏪 Syntera Marketplace</h3>
+          <p><strong><code>PRODUCTION APPLICATION</code></strong></p>
+          
+          <p>A centralized hub for AI/ML tools and resources that empowers engineers to create, train, and deploy machine learning applications and models. This comprehensive platform streamlines the entire ML workflow from data preparation to model serving.</p>
+          
+          <details>
+            <summary><strong>Technologies Used</strong></summary>
+            <br>
+            <p>
+              <code>MLOps</code>
+              <code>Python</code>
+              <code>Web Scraping</code>
+              <code>Streamlit</code>
+              <code>Vector Search</code>
+              <code>API Integration</code>
+            </p>
+          </details>
+          
+          <h4>Key Features</h4>
+          <ul>
+            <li>🔍 <strong>AI tool discovery</strong> - Intelligent search and recommendations for AI/ML tools</li>
+            <li>📊 <strong>Resource management</strong> - Centralized control of AI/ML assets</li>
+            <li>⚙️ <strong>Model deployment</strong> - Streamlined deployment pipelines for ML models</li>
+            <li>📈 <strong>Analytics dashboard</strong> - Comprehensive usage and performance metrics</li>
+          </ul>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
-css
+## 🔮 What I Build
 
-Copy
-<p style="font-size: 16px; line-height: 1.6; color: #e2e8f0; margin-bottom: 20px;">An advanced agentic system that transforms business ideas into production-ready software applications through AI. This autonomous pipeline handles everything from requirements analysis to code generation, testing, and deployment.</p>
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
-  <span style="background-color: rgba(59, 130, 246, 0.2); color: #60a5fa; padding: 8px 14px; border-radius: 8px; font-size: 14px; font-weight: 500; border: 1px solid rgba(59, 130, 246, 0.3);">LangChain</span>
-  <span style="background-color: rgba(139, 92, 246, 0.2); color: #a78bfa; padding: 8px 14px; border-radius: 8px; font-size: 14px; font-weight: 500; border: 1px solid rgba(139, 92, 246, 0.3);">LangGraph</span>
-  <span style="background-color: rgba(236, 72, 153, 0.2); color: #f472b6; padding: 8px 14px; border-radius: 8px; font-size: 14px; font-weight: 500; border: 1px solid rgba(236, 72, 153, 0.3);">LLMs</span>
-  <span style="background-color: rgba(16, 185, 129, 0.2); color: #34d399; padding: 8px 14px; border-radius: 8px; font-size: 14px; font-weight: 500; border: 1px solid rgba(16, 185, 129, 0.3);">Vector Databases</span>
-  <span style="background-color: rgba(245, 158, 11, 0.2); color: #fbbf24; padding: 8px 14px; border-radius: 8px; font-size: 14px; font-weight: 500; border: 1px solid rgba(245, 158, 11, 0.3);">FastAPI</span>
-  <span style="background-color: rgba(248, 113, 113, 0.2); color: #f87171; padding: 8px 14px; border-radius: 8px; font-size: 14px; font-weight: 500; border: 1px solid rgba(248, 113, 113, 0.3);">CI/CD</span>
-</div>
-
-<div style="background-color: rgba(15, 23, 42, 0.5); border-radius: 10px; padding: 20px; margin-top: 20px;">
-  <h4 style="color: #94a3b8; font-size: 16px; margin-top: 0; margin-bottom: 15px; letter-spacing: 1px; text-transform: uppercase;">Key Highlights</h4>
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 15px;">
-    <div style="display: flex; align-items: center; gap: 12px; background-color: rgba(15, 23, 42, 0.3); padding: 12px; border-radius: 8px; border-left: 3px solid #3b82f6;">
-      <span style="font-size: 20px; color: #60a5fa;">🤖</span>
-      <span style="color: #e2e8f0; font-weight: 500;">Multi-agent reasoning</span>
-    </div>
-    <div style="display: flex; align-items: center; gap: 12px; background-color: rgba(15, 23, 42, 0.3); padding: 12px; border-radius: 8px; border-left: 3px solid #8b5cf6;">
-      <span style="font-size: 20px; color: #a78bfa;">📝</span>
-      <span style="color: #e2e8f0; font-weight: 500;">Spec-to-code generation</span>
-    </div>
-    <div style="display: flex; align-items: center; gap: 12px; background-color: rgba(15, 23, 42, 0.3); padding: 12px; border-radius: 8px; border-left: 3px solid #ec4899;">
-      <span style="font-size: 20px; color: #f472b6;">🧪</span>
-      <span style="color: #e2e8f0; font-weight: 500;">Automated testing</span>
-    </div>
-    <div style="display: flex; align-items: center; gap: 12px; background-color: rgba(15, 23, 42, 0.3); padding: 12px; border-radius: 8px; border-left: 3px solid #10b981;">
-      <span style="font-size: 20px; color: #34d399;">🔄</span>
-      <span style="color: #e2e8f0; font-weight: 500;">Continuous feedback loops</span>
-    </div>
-  </div>
-</div>
-</div>
-
-<div style="background: linear-gradient(135deg, #134e4a 0%, #0f172a 100%); border-radius: 12px; padding: 25px; margin-bottom: 25px; border-left: 8px solid #14b8a6; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
-
-<h3 style="font-size: 24px; margin: 0; color: #f0f9ff;">🏪 Syntera Marketplace</h3>
-
-<div style="background-color: #0ea5e9; color: white; font-size: 12px; padding: 6px 12px; border-radius: 30px; font-weight: bold; letter-spacing: 0.5px;">Production Application</div>
-
-</div>
-
-css
-
-Copy
-<p style="font-size: 16px; line-height: 1.6; color: #e2e8f0; margin-bottom: 20px;">A centralized hub for AI/ML tools and resources that empowers engineers to create, train, and deploy machine learning applications and models. This comprehensive platform streamlines the entire ML workflow from data preparation to model serving.</p>
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
-  <span style="background-color: rgba(14, 165, 233, 0.2); color: #38bdf8; padding: 8px 14px; border-radius: 8px; font-size: 14px; font-weight: 500; border: 1px solid rgba(14, 165, 233, 0.3);">MLOps</span>
-  <span style="background-color: rgba(56, 189, 248, 0.2); color: #7dd3fc; padding: 8px 14px; border-radius: 8px; font-size: 14px; font-weight: 500; border: 1px solid rgba(56, 189, 248, 0.3);">Python</span>
-  <span style="background-color: rgba(2, 132, 199, 0.2); color: #0ea5e9; padding: 8px 14px; border-radius: 8px; font-size: 14px; font-weight: 500; border: 1px solid rgba(2, 132, 199, 0.3);">Web Scraping</span>
-  <span style="background-color: rgba(244, 63, 94, 0.2); color: #fb7185; padding: 8px 14px; border-radius: 8px; font-size: 14px; font-weight: 500; border: 1px solid rgba(244, 63, 94, 0.3);">Streamlit</span>
-  <span style="background-color: rgba(20, 184, 166, 0.2); color: #2dd4bf; padding: 8px 14px; border-radius: 8px; font-size: 14px; font-weight: 500; border: 1px solid rgba(20, 184, 166, 0.3);">Vector Search</span>
-  <span style="background-color: rgba(6, 182, 212, 0.2); color: #22d3ee; padding: 8px 14px; border-radius: 8px; font-size: 14px; font-weight: 500; border: 1px solid rgba(6, 182, 212, 0.3);">API Integration</span>
-</div>
-
-<div style="background-color: rgba(15, 23, 42, 0.5); border-radius: 10px; padding: 20px; margin-top: 20px;">
-  <h4 style="color: #94a3b8; font-size: 16px; margin-top: 0; margin-bottom: 15px; letter-spacing: 1px; text-transform: uppercase;">Key Highlights</h4>
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 15px;">
-    <div style="display: flex; align-items: center; gap: 12px; background-color: rgba(15, 23, 42, 0.3); padding: 12px; border-radius: 8px; border-left: 3px solid #0ea5e9;">
-      <span style="font-size: 20px; color: #38bdf8;">🔍</span>
-      <span style="color: #e2e8f0; font-weight: 500;">AI tool discovery</span>
-    </div>
-    <div style="display: flex; align-items: center; gap: 12px; background-color: rgba(15, 23, 42, 0.3); padding: 12px; border-radius: 8px; border-left: 3px solid #06b6d4;">
-      <span style="font-size: 20px; color: #22d3ee;">📊</span>
-      <span style="color: #e2e8f0; font-weight: 500;">Resource management</span>
-    </div>
-    <div style="display: flex; align-items: center; gap: 12px; background-color: rgba(15, 23, 42, 0.3); padding: 12px; border-radius: 8px; border-left: 3px solid #14b8a6;">
-      <span style="font-size: 20px; color: #2dd4bf;">⚙️</span>
-      <span style="color: #e2e8f0; font-weight: 500;">Model deployment</span>
-    </div>
-    <div style="display: flex; align-items: center; gap: 12px; background-color: rgba(15, 23, 42, 0.3); padding: 12px; border-radius: 8px; border-left: 3px solid #0284c7;">
-      <span style="font-size: 20px; color: #0ea5e9;">📈</span>
-      <span style="color: #e2e8f0; font-weight: 500;">Analytics dashboard</span>
-    </div>
-  </div>
-</div>
-</div>
-
-</div>
-
-🔮 What I Build
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px; margin: 30px 0;">
-
-<div style="background: linear-gradient(to bottom right, #1e293b, #0f172a); border-radius: 12px; padding: 25px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-top: 5px solid #3b82f6; transition: transform 0.3s ease;">
-
-<div style="margin-bottom: 15px;">
-
-<span style="font-size: 28px;">🤖</span>
-
-<h3 style="font-size: 20px; margin: 10px 0; color: #f8fafc;">Autonomous Agent Systems</h3>
-
-</div>
-
-<p style="font-size: 15px; line-height: 1.6; color: #cbd5e1; margin-bottom: 20px;">Multi-agent architectures that can perceive, reason, plan, and act to solve complex tasks with minimal human intervention.</p>
-
-<div style="padding: 10px; background: rgba(15, 23, 42, 0.5); border-radius: 8px; font-size: 14px; color: #94a3b8; font-family: monospace;">LangChain, LangGraph, LLMs</div>
-
-</div>
-
-<div style="background: linear-gradient(to bottom right, #1e293b, #0f172a); border-radius: 12px; padding: 25px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-top: 5px solid #8b5cf6; transition: transform 0.3s ease;">
-
-<div style="margin-bottom: 15px;">
-
-<span style="font-size: 28px;">🧠</span>
-
-<h3 style="font-size: 20px; margin: 10px 0; color: #f8fafc;">LLM-powered Applications</h3>
-
-</div>
-
-<p style="font-size: 15px; line-height: 1.6; color: #cbd5e1; margin-bottom: 20px;">Fine-tuned and optimized LLM implementations for specific domains, with sophisticated prompting strategies.</p>
-
-<div style="padding: 10px; background: rgba(15, 23, 42, 0.5); border-radius: 8px; font-size: 14px; color: #94a3b8; font-family: monospace;">LangSmith, Vector DBs, Fine-tuning</div>
-
-</div>
-
-<div style="background: linear-gradient(to bottom right, #1e293b, #0f172a); border-radius: 12px; padding: 25px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-top: 5px solid #ec4899; transition: transform 0.3s ease;">
-
-<div style="margin-bottom: 15px;">
-
-<span style="font-size: 28px;">🦾</span>
-
-<h3 style="font-size: 20px; margin: 10px 0; color: #f8fafc;">Robotics & Mechatronics</h3>
-
-</div>
-
-<p style="font-size: 15px; line-height: 1.6; color: #cbd5e1; margin-bottom: 20px;">Intelligent systems that bridge the gap between software and hardware, combining AI with physical world interaction.</p>
-
-<div style="padding: 10px; background: rgba(15, 23, 42, 0.5); border-radius: 8px; font-size: 14px; color: #94a3b8; font-family: monospace;">Control Systems, Sensors, Actuators</div>
-
-</div>
-
-<div style="background: linear-gradient(to bottom right, #1e293b, #0f172a); border-radius: 12px; padding: 25px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-top: 5px solid #10b981; transition: transform 0.3s ease;">
-
-<div style="margin-bottom: 15px;">
-
-<span style="font-size: 28px;">📊</span>
-
-<h3 style="font-size: 20px; margin: 10px 0; color: #f8fafc;">AI Data Pipelines</h3>
-
-</div>
-
-<p style="font-size: 15px; line-height: 1.6; color: #cbd5e1; margin-bottom: 20px;">End-to-end data workflows that ingest, process, and transform data for AI/ML applications.</p>
-
-<div style="padding: 10px; background: rgba(15, 23, 42, 0.5); border-radius: 8px; font-size: 14px; color: #94a3b8; font-family: monospace;">MLOps, Data Engineering, Python</div>
-
-</div>
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/gist/balapriyac/32d3bd9ef3c6ac46781e7da0fdcf4830/raw/9fdd05bb4faa7e4d97f1a7485b9ecfb067af5a48/robot.gif" width="60">
+        <h3>Autonomous Agent Systems</h3>
+        <p>Multi-agent architectures that can perceive, reason, plan, and act to solve complex tasks with minimal human intervention.</p>
+        <hr>
+        <p><code>LangChain</code> <code>LangGraph</code> <code>LLMs</code></p>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/gist/balapriyac/32d3bd9ef3c6ac46781e7da0fdcf4830/raw/9fdd05bb4faa7e4d97f1a7485b9ecfb067af5a48/brain.gif" width="60">
+        <h3>LLM-powered Applications</h3>
+        <p>Fine-tuned and optimized LLM implementations for specific domains, with sophisticated prompting strategies.</p>
+        <hr>
+        <p><code>LangSmith</code> <code>Vector DBs</code> <code>Fine-tuning</code></p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/gist/balapriyac/32d3bd9ef3c6ac46781e7da0fdcf4830/raw/9fdd05bb4faa7e4d97f1a7485b9ecfb067af5a48/robot-arm.gif" width="60">
+        <h3>Robotics & Mechatronics</h3>
+        <p>Intelligent systems that bridge the gap between software and hardware, combining AI with physical world interaction.</p>
+        <hr>
+        <p><code>Control Systems</code> <code>Sensors</code> <code>Actuators</code></p>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/gist/balapriyac/32d3bd9ef3c6ac46781e7da0fdcf4830/raw/9fdd05bb4faa7e4d97f1a7485b9ecfb067af5a48/data-flow.gif" width="60">
+        <h3>AI Data Pipelines</h3>
+        <p>End-to-end data workflows that ingest, process, and transform data for AI/ML applications.</p>
+        <hr>
+        <p><code>MLOps</code> <code>Data Engineering</code> <code>Python</code></p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 📈 GitHub Activity
