@@ -17,7 +17,7 @@
 
 ## 🤖 About Me
 
-<img align="right" width="300" src="https://pouch.jumpshare.com/preview/OlrX5NxyPT4inzCToUg46efMM1KgXBb48SmHbdN3DdfwwwmpHFrau-FFCQNh47k9VLq9lHqLMe0d6hRJDSaG1tClVe9NgTDw_UEugaIzZew">
+<img align="right" width="300" src="https://i.imgur.com/SMz2XWM.gif">
 
 > "Innovative solutions require dumb mistakes" 💡
 
